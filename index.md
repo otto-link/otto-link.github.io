@@ -12,5 +12,5 @@ Welcome to my personal page! I build tools, C++ libraries, and procedural genera
 
 ## Find Me
 
-GitHub: **https://github.com/otto-link**
-Discord: **TODO**
+- GitHub: **https://github.com/otto-link**
+- Discord: **TODO**
