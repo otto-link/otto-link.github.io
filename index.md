@@ -20,7 +20,8 @@ A small interactive web tool inspired by Michaël Noll's 1964 artwork "Computer 
 
 ![preview](assets/NollLines_preview.png)
 
-**https://github.com/otto-link/NollLines**
+- Online interface: https://otto-link.github.io/NollLines/
+- GitHub: https://github.com/otto-link/NollLines
 
 ## Find Me
 
