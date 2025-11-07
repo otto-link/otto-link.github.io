@@ -8,7 +8,19 @@ Welcome to my personal page! I build tools, C++ libraries, and procedural genera
 
 ## Projects
 
+### Hesiod - A desktop application for node-based procedural terrain generation
 
+- binaries: https://sourceforge.net/projects/hesiod
+- Discord: https://discord.gg/HBgFCjdV8W
+- documentation: https://hesioddoc.readthedocs.io
+- GitHub: https://github.com/otto-link/Hesiod
+
+### Computer Composition With Lines - Interactive UI
+A small interactive web tool inspired by Michaël Noll's 1964 artwork "Computer Composition With Lines". 
+
+![preview](assets/NollLines_preview.png)
+
+**https://github.com/otto-link/NollLines**
 
 ## Find Me
 
