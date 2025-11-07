@@ -1,0 +1,7 @@
+title: My Portfolio
+description: Overview and links to my work
+theme: jekyll-theme-hacker
+
+# Optional – add your GitHub link
+github:
+  is_project_page: false
