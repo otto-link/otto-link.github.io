@@ -10,6 +10,10 @@ Welcome to my personal page! I build tools, C++ libraries, and procedural genera
 
 ### Hesiod - A desktop application for node-based procedural terrain generation
 
+
+
+![preview](assets/Hesiod_preview.png)
+
 - binaries: https://sourceforge.net/projects/hesiod
 - Discord: https://discord.gg/HBgFCjdV8W
 - documentation: https://hesioddoc.readthedocs.io
