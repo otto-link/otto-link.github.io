@@ -17,6 +17,10 @@ Welcome to my personal page! I build tools, C++ libraries, and procedural genera
 - documentation: [https://hesioddoc.readthedocs.io](https://hesioddoc.readthedocs.io)
 - GitHub: [https://github.com/otto-link/Hesiod](https://github.com/otto-link/Hesiod)
 
+Hesiod is built on **HighMap**, a C++ library to generate two-dimensional terrain heightmaps:
+- GitHub: [https://github.com/otto-link/HighMap](https://github.com/otto-link/HighMap)
+- documentation: [https://otto-link.github.io/HighMap](https://otto-link.github.io/HighMap)
+
 ### Computer Composition With Lines - Interactive UI
 A small interactive web tool inspired by Michaël Noll's 1964 artwork "Computer Composition With Lines". 
 
