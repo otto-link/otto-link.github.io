@@ -36,6 +36,14 @@ A small interactive web tool inspired by Michaël Noll's 1964 artwork "Computer 
 - Online interface: [https://otto-link.github.io/NollLines/](https://otto-link.github.io/NollLines/)
 - GitHub: [https://github.com/otto-link/NollLines](https://otto-link.github.io/NollLines/)
 
+### RegularTiles
+A visual generator that composes patterns from modular geometric tile families such as Truchet, arcs, diagonals, and Molnar-style shapes.
+
+![preview](assets/RegularTiles_preview.png)
+
+- Online interface: [https://otto-link.github.io/RegularTiles/](https://otto-link.github.io/RegularTiles/)
+- GitHub: [https://github.com/otto-link/RegularTiles](https://otto-link.github.io/RegularTiles/)
+
 ## Find Me
 
 - GitHub: **[https://github.com/otto-link](https://github.com/otto-link)**
