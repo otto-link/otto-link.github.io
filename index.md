@@ -21,6 +21,13 @@ Hesiod is built on **HighMap**, a C++ library to generate two-dimensional terrai
 - GitHub: [https://github.com/otto-link/HighMap](https://github.com/otto-link/HighMap)
 - documentation: [https://otto-link.github.io/HighMap](https://otto-link.github.io/HighMap)
 
+### ColorSnatcher - A Cross-Platform Tool (Linux & Windows) to Extract Colormap from Images
+
+![preview](assets/ColorSnatcher_preview.png)
+
+- binaries: [https://sourceforge.net/projects/hesiod](https://sourceforge.net/projects/hesiod)
+- GitHub: [https://github.com/otto-link/ColorSnatcher](https://github.com/otto-link/ColorSnatcher)
+
 ### Computer Composition With Lines - Interactive UI
 A small interactive web tool inspired by Michaël Noll's 1964 artwork "Computer Composition With Lines". 
 
