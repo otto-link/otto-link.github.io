@@ -39,6 +39,14 @@ PointSampler is a lightweight C++ header-only library for generating and manipul
 - binaries: [https://sourceforge.net/projects/hesiod](https://sourceforge.net/projects/hesiod)
 - GitHub: [https://github.com/otto-link/ColorSnatcher](https://github.com/otto-link/ColorSnatcher)
 
+### AlphaModelRoadNetwork - Demonstrate the Usage of the "alpha model" for Procedural Generation of Large-Scale Road Networks
+
+A python script to demonstrate the usage of the "alpha model" for procedural generation of large-scale road networks.
+
+![preview](assets/Alpha_preview.png)
+
+GitHub : [https://github.com/otto-link/AlphaModelRoadNetwork](https://github.com/otto-link/AlphaModelRoadNetwork)
+
 ### Meanderize - How to Mimic River Meanders and Oxbows Formation
 
 A python script to demonstrate how to mimic river meanders and oxbows formation. Greatly inspired by [https://rarevolume.com/work/meander](https://rarevolume.com/work/meander).
