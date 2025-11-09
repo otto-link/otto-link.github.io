@@ -17,9 +17,20 @@ Welcome to my personal page! I build tools, C++ libraries, and procedural genera
 - documentation: [https://hesioddoc.readthedocs.io](https://hesioddoc.readthedocs.io)
 - GitHub: [https://github.com/otto-link/Hesiod](https://github.com/otto-link/Hesiod)
 
-Hesiod is built on **HighMap**, a C++ library to generate two-dimensional terrain heightmaps:
+### HighMap - A C++ Library to Generate Two-Dimensional Terrain Heightmaps
+
+Hesiod is built on **HighMap**:
 - GitHub: [https://github.com/otto-link/HighMap](https://github.com/otto-link/HighMap)
 - documentation: [https://otto-link.github.io/HighMap](https://otto-link.github.io/HighMap)
+
+### PointSampler - A C++ Library for Generating (and Labeling) Random 2D, 3D, or n-dimensional Points with Configurable Spatial Distributions
+
+PointSampler is a lightweight C++ header-only library for generating and manipulating points in arbitrary dimensions (1D, 2D, 3D, ... N-dimensional). It includes utilities for random sampling, jittered grids, importance sampling, density warping, spatial relaxation, and point clustering (labeling). The library is designed to be generic, extensible, and dimensionality-independent via std::array and C++ templates.
+
+![preview](assets/PointSampler_preview.jpg)
+
+- GitHub: [https://github.com/otto-link/PointSampler](https://github.com/otto-link/PointSampler)
+- documentation: [https://otto-link.github.io/PointSampler](https://otto-link.github.io/PointSampler)
 
 ### ColorSnatcher - A Cross-Platform Tool (Linux & Windows) to Extract Colormap from Images
 
