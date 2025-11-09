@@ -39,6 +39,18 @@ PointSampler is a lightweight C++ header-only library for generating and manipul
 - binaries: [https://sourceforge.net/projects/hesiod](https://sourceforge.net/projects/hesiod)
 - GitHub: [https://github.com/otto-link/ColorSnatcher](https://github.com/otto-link/ColorSnatcher)
 
+### DuneScape - A Minimalist GUI to Generate Dune Fields using Cellular Automaton
+
+![preview](assets/DuneScape_preview.png)
+
+- GitHub: [https://github.com/otto-link/DuneScape](https://github.com/otto-link/DuneScape)
+
+### ShoreWaves - A Minimalist GUI to Generate Shore Gerstner Waves
+
+![preview](assets/ShoreWaves_preview.png)
+
+- GitHub: [https://github.com/otto-link/ShoreWaves](https://github.com/otto-link/ShoreWaves)
+
 ### Computer Composition With Lines - Interactive UI
 A small interactive web tool inspired by Michaël Noll's 1964 artwork "Computer Composition With Lines". 
 
