@@ -39,6 +39,14 @@ PointSampler is a lightweight C++ header-only library for generating and manipul
 - binaries: [https://sourceforge.net/projects/hesiod](https://sourceforge.net/projects/hesiod)
 - GitHub: [https://github.com/otto-link/ColorSnatcher](https://github.com/otto-link/ColorSnatcher)
 
+### Meanderize - How to Mimic River Meanders and Oxbows Formation
+
+A python script to demonstrate how to mimic river meanders and oxbows formation. Greatly inspired by [https://rarevolume.com/work/meander](https://rarevolume.com/work/meander).
+
+![preview](assets/Meanderize_preview.png)
+
+GitHub: [https://github.com/otto-link/Meanderize](https://github.com/otto-link/Meanderize)
+
 ### DuneScape - A Minimalist GUI to Generate Dune Fields using Cellular Automaton
 
 ![preview](assets/DuneScape_preview.png)
