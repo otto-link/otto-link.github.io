@@ -23,6 +23,10 @@ Hesiod is built on **HighMap**:
 - GitHub: [https://github.com/otto-link/HighMap](https://github.com/otto-link/HighMap)
 - documentation: [https://otto-link.github.io/HighMap](https://otto-link.github.io/HighMap)
 
+### GNode - A Generic Node-Based Data Structure for Node Graph Programming in C++
+
+- GitHub: [https://github.com/otto-link/GNode}(https://github.com/otto-link/GNode)
+
 ### PointSampler - A C++ Library for Generating (and Labeling) Random 2D, 3D, or n-dimensional Points with Configurable Spatial Distributions
 
 PointSampler is a lightweight C++ header-only library for generating and manipulating points in arbitrary dimensions (1D, 2D, 3D, ... N-dimensional). It includes utilities for random sampling, jittered grids, importance sampling, density warping, spatial relaxation, and point clustering (labeling). The library is designed to be generic, extensible, and dimensionality-independent via std::array and C++ templates.
