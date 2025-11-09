@@ -45,7 +45,15 @@ A python script to demonstrate the usage of the "alpha model" for procedural gen
 
 ![preview](assets/Alpha_preview.png)
 
-GitHub : [https://github.com/otto-link/AlphaModelRoadNetwork](https://github.com/otto-link/AlphaModelRoadNetwork)
+- GitHub : [https://github.com/otto-link/AlphaModelRoadNetwork](https://github.com/otto-link/AlphaModelRoadNetwork)
+
+### SatColorLUT - A Demonstration of Color Lookup Table Generation for Heightmaps Based on Earth DEM
+
+A python script to generate color lookup table for heightmaps based on earth DEM and true color data.
+
+![preview](assets/SatColorLut_preview.png)
+
+- GitHub: [https://github.com/otto-link/SatColorLUT](https://github.com/otto-link/SatColorLUT)
 
 ### Meanderize - How to Mimic River Meanders and Oxbows Formation
 
@@ -53,7 +61,7 @@ A python script to demonstrate how to mimic river meanders and oxbows formation.
 
 ![preview](assets/Meanderize_preview.png)
 
-GitHub: [https://github.com/otto-link/Meanderize](https://github.com/otto-link/Meanderize)
+- GitHub: [https://github.com/otto-link/Meanderize](https://github.com/otto-link/Meanderize)
 
 ### DuneScape - A Minimalist GUI to Generate Dune Fields using Cellular Automaton
 
