@@ -25,7 +25,7 @@ Hesiod is built on **HighMap**:
 
 ### GNode - A Generic Node-Based Data Structure for Node Graph Programming in C++
 
-- GitHub: [https://github.com/otto-link/GNode}(https://github.com/otto-link/GNode)
+- GitHub: [https://github.com/otto-link/GNode](https://github.com/otto-link/GNode)
 
 ### PointSampler - A C++ Library for Generating (and Labeling) Random 2D, 3D, or n-dimensional Points with Configurable Spatial Distributions
 
