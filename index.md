@@ -25,6 +25,8 @@ Hesiod is built on **HighMap**:
 
 ### GNode - A Generic Node-Based Data Structure for Node Graph Programming in C++
 
+![preview](assets/GNode_preview256.png)
+
 - GitHub: [https://github.com/otto-link/GNode](https://github.com/otto-link/GNode)
 - documentation [https://otto-link.github.io/GNode](https://otto-link.github.io/GNode)
 
